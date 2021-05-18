@@ -1,4 +1,4 @@
-# Flashy-Flashcard
+# Flashy-Flashcard-French-Edition
 Flashcard program that allows users to learn/practice French vocabulary. 
 
 Each card will be shown for four seconds and the user can press the green check button if they got it right, or the red x button if they got it wrong. 
